@@ -1,1 +1,1 @@
-All my code from expirmenting with neural networks. 
+All my code from experimenting with neural networks. 
